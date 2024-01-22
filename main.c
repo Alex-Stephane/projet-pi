@@ -11,5 +11,6 @@ int main()
     scanf("%d", &user_choice_acceuil);
     system("cls");
     gerer_menu_acceuil(user_choice_acceuil);
+    printf("Maintenant je participe au projet\n");
     return 0;
 }
